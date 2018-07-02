@@ -1,0 +1,24 @@
+
+1)
+
+    a) \b(aa[b|c]*a){1}(?!\S)
+
+    b) (\d{3}[-?|\.?]?){1,2}\d{4}(\ ext\ [\d]{3})?(?!\S)
+
+    c) (\S+@[a-zA-z]+\.?[a-z]+?\.[a-z]{3}(?!\S))
+
+    d) ((def)\ (\w)*(\(([A-Za-z0-9_,\ ])*\))(:)(\s)*(pass)(\s)*(?!.)(\n)*(?!(\s){4,}(\W)))
+
+    e) <a(.)*>(.)*<\/a>
+
+2)
+
+    a) This would match a string starting with an “a” or “b” followed by a combination of three or four “c”, “d”, or “e” and ending in “b”
+
+    b) This matches any word character between one and unlimited times concatenated with one or more non word characters
+
+    c) This matches exactly three decimal digits then a dash followed by two decimal digits then a dash followed by four decimal digits. This would match a social security number
+
+3) \b(\S*)@email.sc.edu(?!\S)
+
+4) seperate file called hw2num4.py

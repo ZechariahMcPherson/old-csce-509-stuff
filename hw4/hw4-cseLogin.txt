@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" ><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" ><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" ><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" ><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html>
+ <!--<![endif]-->
+ <head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+  <link href="https://cse.sc.edu/sites/all/themes/usc2012/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <title>
+   User account
+  </title>
+  <meta content="width" name="MobileOptimized">
+   <meta content="true" name="HandheldFriendly">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+     <meta content="on" http-equiv="cleartype">
+      <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700|Open+Sans:300,400italic,700italic,600italic,400,700,600,800" rel="stylesheet" type="text/css">
+       <link href="https://cse.sc.edu/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" rel="stylesheet" type="text/css"/>
+       <link href="https://cse.sc.edu/files/css/css_uGvhyB0TlhFkru2rB0vLZV638UpoqZr_CAEleni20y8.css" media="all" rel="stylesheet" type="text/css"/>
+       <link href="https://cse.sc.edu/files/css/css_KpHsFsHL5G3x9EUJr5pMqQKsGs4fdCXEGrY6HhOgLHA.css" media="screen" rel="stylesheet" type="text/css"/>
+       <link href="https://cse.sc.edu/files/css/css_zAAXSimdqx6ghZNfEyWe_DQCJm4mH17-ZJEA1DqafbA.css" media="all" rel="stylesheet" type="text/css"/>
+       <link href="https://cse.sc.edu/files/css/css_tgBNZbfIrn28oALS70q9FDOARjCHIRMB8U2Q5mvLHDo.css" media="all" rel="stylesheet" type="text/css"/>
+       <link href="https://cse.sc.edu/files/css/css_MDBcstDNIPbvSU3M5o6ImTlKIO38Lb7vP-lOFtUSe3E.css" media="all" rel="stylesheet" type="text/css"/>
+       <script src="https://cse.sc.edu/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js" type="text/javascript">
+       </script>
+       <script src="https://cse.sc.edu/files/js/js_bYTn_hnm6FTYFC4MX4jXq1dgjDpTuSA-Xc_bnf6q1tM.js" type="text/javascript">
+       </script>
+       <script src="https://cse.sc.edu/sites/all/modules/lightbox2/js/lightbox.js?1487550350" type="text/javascript">
+       </script>
+       <script src="https://cse.sc.edu/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js" type="text/javascript">
+       </script>
+       <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://cse.sc.edu/files/googleanalytics/analytics.js?oklmzl","ga");ga("create", "UA-19102661-2", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+       </script>
+       <script src="https://cse.sc.edu/files/js/js_euR9MQ_SsodIXVJzJS9kbrYPn9-mHD3x91XvgZM6S8I.js" type="text/javascript">
+       </script>
+       <script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"usc2012","theme_token":"0J2T4oKrI8OOwnNJLXfAWmdwmujPLYVUKilhzAfn_ro","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/usc2012\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_help\/ldap_help.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/themes\/usc2012\/system.menus.css":1,"sites\/all\/themes\/usc2012\/css\/normalize.css":1,"sites\/all\/themes\/usc2012\/css\/wireframes.css":1,"sites\/all\/themes\/usc2012\/css\/layouts\/responsive-sidebars.css":1,"sites\/all\/themes\/usc2012\/css\/page-backgrounds.css":1,"sites\/all\/themes\/usc2012\/css\/tabs.css":1,"sites\/all\/themes\/usc2012\/css\/pages.css":1,"sites\/all\/themes\/usc2012\/css\/blocks.css":1,"sites\/all\/themes\/usc2012\/css\/navigation.css":1,"sites\/all\/themes\/usc2012\/css\/views-styles.css":1,"sites\/all\/themes\/usc2012\/css\/nodes.css":1,"sites\/all\/themes\/usc2012\/css\/comments.css":1,"sites\/all\/themes\/usc2012\/css\/forms.css":1,"sites\/all\/themes\/usc2012\/css\/fields.css":1,"sites\/all\/themes\/usc2012\/css\/print.css":1}},"googleCSE":{"cx":"002933219556804216657:yjjqotpsx8o","language":"","resultsWidth":550,"domain":"www.google.com"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/user\/login?destination=node":true}});
+//--><!]]>
+       </script>
+       <!--[if lt IE 9]><script src="/sites/all/themes/usc2012/js/html5-respond.js"></script><![endif]-->
+      </link>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="html not-front not-logged-in one-sidebar sidebar-first page-user page-user-login section-user">
+  <div id="page">
+   <header id="header" role="banner">
+    <nav id="ribbon" role="navigation">
+     <div class="banner-toolbox">
+      <ol class="banner-tools">
+       <li>
+        <a href="http://calendar.sc.edu" title="USC Calendar">
+         Calendar
+        </a>
+       </li>
+       <li>
+        <a href="http://www.sc.edu/visit/map" title="USC Map">
+         Map
+        </a>
+       </li>
+       <li>
+        <a href="http://www.sc.edu/about/directory" title="USC Directory">
+         Directory
+        </a>
+       </li>
+       <li>
+        <a href="http://giving.sc.edu">
+         Give
+        </a>
+       </li>
+      </ol>
+      <div id="header-search">
+       <form accept-charset="UTF-8" action="/user/login?destination=node" class="google-cse" id="search-block-form" method="post">
+        <div>
+         <div class="container-inline">
+          <h2 class="element-invisible">
+           Search form
+          </h2>
+          <div class="form-item form-type-textfield form-item-search-block-form">
+           <label class="element-invisible" for="edit-search-block-form--2">
+            Search
+           </label>
+           <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Search SC.edu" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+          </div>
+          <div class="element-invisible form-actions form-wrapper" id="edit-actions--2">
+           <input class="form-submit" id="edit-submit--2" name="op" type="submit" value="Search"/>
+          </div>
+          <input name="form_build_id" type="hidden" value="form-WoUz6y7zZCKCNPi4EygsWF7FSQNcQM09u7tpTN8Iv8A"/>
+          <input name="form_id" type="hidden" value="search_block_form"/>
+         </div>
+        </div>
+       </form>
+      </div>
+      <div class="gateways-wrapper">
+       <a class="usc-menu-btn" href="#" onclick="jQuery('.usc-menu').toggle()" title="Gateways USC" type="button">
+        GATEWAYS
+       </a>
+       <div class="usc-menu">
+        <h1 class="usc-menu-header">
+         Resources for:
+        </h1>
+        <ol class="usc-menu-list">
+         <li>
+          <a href="http://www.sc.edu/students" title="Student Gateway">
+           Students
+           <span>
+            sc.edu/students
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.sc.edu/parents" title="Parents Gateway">
+           Parents
+           <span>
+            sc.edu/parents
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.sc.edu/alumni" title="Alumni Gateway">
+           Alumni
+           <span>
+            sc.edu/alumni
+           </span>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.sc.edu/facultystaff" title="Faculty/Staff Gateway">
+           Faculty &amp; Staff
+           <span>
+            sc.edu/facultystaff
+           </span>
+          </a>
+         </li>
+        </ol>
+       </div>
+      </div>
+     </div>
+    </nav>
+    <div id="logo">
+     <a href="http://www.sc.edu">
+      <img alt="University of South Carolina" height="71" src="/sites/all/themes/usc2012/images/usc_web_main.png" style="max-width:278px" width="278"/>
+     </a>
+    </div>
+   </header>
+   <header id="mobile-header" role="banner">
+    <div id="mobile-logo">
+     <a href="http://www.sc.edu">
+      <img alt="University of South Carolina" height="45" id="mobile-logo-img" src="/sites/all/themes/usc2012/images/usc_web_main.png" width="175"/>
+     </a>
+    </div>
+    <span id="mobile-menu-button">
+     Menu
+     <span class="toggle-plus">
+      +
+     </span>
+     <span class="toggle-minus">
+      –
+     </span>
+    </span>
+   </header>
+   <nav class="toggle-menu" id="mobile-menu">
+    <div class="region region-sidebar-first column sidebar">
+     <div class="section">
+      <div class="block block-system block-menu first odd" id="block-system-navigation">
+       <div class="content">
+        <ul class="menu">
+         <li class="first collapsed">
+          <a href="/undergraduate" title="Undergraduate degrees available">
+           Undergraduate
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/graduate" title="Graduate degrees available">
+           Graduate
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/class" title="List of all the classes we offer.">
+           Classes
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="http://www.sc.edu/study/colleges_schools/engineering_and_computing/study/areas_of_study/computer_science_and_engineering/our_people/index.php" title="Our People">
+           People
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/research">
+           Research
+          </a>
+         </li>
+         <li class="collapsed">
+          <a href="/event" title="All of our Events.">
+           Events
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/contact" title="">
+           Contact Us
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- /.block -->
+      <div class="block block-menu last even" id="block-menu-menu-secondary-navigation">
+       <div class="content">
+        <ul class="menu">
+         <li class="first collapsed">
+          <a href="/jobs" title="">
+           Jobs Board
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="https://dropbox.cse.sc.edu" title="">
+           CSE Dropbox
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="https://webmail.sc.edu" title="">
+           Fac/Staff Webmail
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="http://www.sc.edu/studentemail/" title="">
+           Student Webmail
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/forms" title="Forms used by students and faculty">
+           Forms
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/news" title="">
+           News
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- /.block -->
+     </div>
+    </div>
+    <!-- /.section, /.region -->
+    <div class="region-sidebar-first" id="mobile-search">
+     <form accept-charset="UTF-8" action="/user/login?destination=node" class="google-cse" id="search-block-form" method="post">
+      <div>
+       <div class="container-inline">
+        <h2 class="element-invisible">
+         Search form
+        </h2>
+        <div class="form-item form-type-textfield form-item-search-block-form">
+         <label class="element-invisible" for="edit-search-block-form--2">
+          Search
+         </label>
+         <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" placeholder="Search SC.edu" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+        </div>
+        <div class="element-invisible form-actions form-wrapper" id="edit-actions--2">
+         <input class="form-submit" id="edit-submit--2" name="op" type="submit" value="Search"/>
+        </div>
+        <input name="form_build_id" type="hidden" value="form-WoUz6y7zZCKCNPi4EygsWF7FSQNcQM09u7tpTN8Iv8A"/>
+        <input name="form_id" type="hidden" value="search_block_form"/>
+       </div>
+      </div>
+     </form>
+    </div>
+   </nav>
+   <div id="main">
+    <div class="region region-header">
+     <div class="block block-block first last odd" id="block-block-23">
+      <div class="content">
+       <div id="branding">
+        <h1>
+         <a href="/" title="The CSE department homepage">
+          My
+          <strong>
+           Computer Science &amp; Engineering
+          </strong>
+          Department
+         </a>
+        </h1>
+       </div>
+      </div>
+     </div>
+     <!-- /.block -->
+    </div>
+    <!-- /.region -->
+    <h2 class="element-invisible">
+     You are here
+    </h2>
+    <div class="breadcrumb">
+     <a href="http://www.sc.edu">
+      SC.edu
+     </a>
+     »
+     <a href="http://www.cec.sc.edu" title="College of Engineering &amp; Computing">
+      CEC
+     </a>
+     »
+     <a href="/">
+      Computer Science &amp; Engineering
+     </a>
+    </div>
+    <div class="column" id="content" role="main">
+     <a id="main-content">
+     </a>
+     <h1 class="title" id="page-title">
+      User account
+     </h1>
+     <h2 class="element-invisible">
+      Primary tabs
+     </h2>
+     <ul class="tabs primary clearfix">
+      <li class="active">
+       <a class="active" href="/user">
+        <span class="tab">
+         Log in
+        </span>
+        <span class="element-invisible">
+         (active tab)
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="/user/password">
+        <span class="tab">
+         Request new password
+        </span>
+       </a>
+      </li>
+     </ul>
+     <div class="region region-content">
+      <div class="block block-system first last odd" id="block-system-main">
+       <div class="content">
+        <form accept-charset="UTF-8" action="/user/login?destination=node" id="user-login" method="post">
+         <div>
+          Log in using your credentials for the CEC Windows Machines
+          <div class="form-item form-type-textfield form-item-name">
+           <label for="edit-name">
+            Username
+            <span class="form-required" title="This field is required.">
+             *
+            </span>
+           </label>
+           <input class="form-text required" id="edit-name" maxlength="60" name="name" size="60" type="text" value=""/>
+           <div class="description">
+            Enter your Computer Science &amp; Engineering username.
+           </div>
+          </div>
+          <div class="form-item form-type-password form-item-pass">
+           <label for="edit-pass">
+            Password
+            <span class="form-required" title="This field is required.">
+             *
+            </span>
+           </label>
+           <input class="form-text required" id="edit-pass" maxlength="128" name="pass" size="60" type="password"/>
+           <div class="description">
+            Enter the password that accompanies your username.
+           </div>
+          </div>
+          <input name="form_build_id" type="hidden" value="form-fYpy_nnMeexMW5XBIQ1IgMGk7AM-IA1nVXuPY1yztQ0"/>
+          <input name="form_id" type="hidden" value="user_login"/>
+          <div class="form-actions form-wrapper" id="edit-actions">
+           <input class="form-submit" id="edit-submit" name="op" type="submit" value="Log in"/>
+          </div>
+         </div>
+        </form>
+       </div>
+      </div>
+      <!-- /.block -->
+     </div>
+     <!-- /.region -->
+    </div>
+    <!-- /#content -->
+    <aside class="sidebars">
+     <nav id="desktop-menu">
+      <div class="region region-sidebar-first column sidebar">
+       <div class="section">
+        <div class="block block-system block-menu first odd" id="block-system-navigation">
+         <div class="content">
+          <ul class="menu">
+           <li class="first collapsed">
+            <a href="/undergraduate" title="Undergraduate degrees available">
+             Undergraduate
+            </a>
+           </li>
+           <li class="collapsed">
+            <a href="/graduate" title="Graduate degrees available">
+             Graduate
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="/class" title="List of all the classes we offer.">
+             Classes
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="http://www.sc.edu/study/colleges_schools/engineering_and_computing/study/areas_of_study/computer_science_and_engineering/our_people/index.php" title="Our People">
+             People
+            </a>
+           </li>
+           <li class="collapsed">
+            <a href="/research">
+             Research
+            </a>
+           </li>
+           <li class="collapsed">
+            <a href="/event" title="All of our Events.">
+             Events
+            </a>
+           </li>
+           <li class="last leaf">
+            <a href="/contact" title="">
+             Contact Us
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <!-- /.block -->
+        <div class="block block-menu last even" id="block-menu-menu-secondary-navigation">
+         <div class="content">
+          <ul class="menu">
+           <li class="first collapsed">
+            <a href="/jobs" title="">
+             Jobs Board
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="https://dropbox.cse.sc.edu" title="">
+             CSE Dropbox
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="https://webmail.sc.edu" title="">
+             Fac/Staff Webmail
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="http://www.sc.edu/studentemail/" title="">
+             Student Webmail
+            </a>
+           </li>
+           <li class="leaf">
+            <a href="/forms" title="Forms used by students and faculty">
+             Forms
+            </a>
+           </li>
+           <li class="last leaf">
+            <a href="/news" title="">
+             News
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <!-- /.block -->
+       </div>
+      </div>
+      <!-- /.section, /.region -->
+     </nav>
+    </aside>
+    <!-- /.sidebars -->
+    <div id="bottomheader" style="clear:both">
+     <div class="region region-bottomheader">
+      <div class="block block-block first last odd" id="block-block-36">
+       <div class="content">
+        <div id="branding-footer">
+         <ul class="horizontal">
+          <li>
+           <h2>
+            <a href="/" title="The CSE department homepage">
+             <strong>
+              Computer Science &amp; Engineering
+             </strong>
+             Department
+            </a>
+           </h2>
+          </li>
+          <li>
+           <ul class="horizontal uniticons">
+            <li>
+             <a class="location" href="https://www.google.com/maps/preview/place/Swearingen+Engineering+Center,+Columbia,+SC+29201">
+              Location
+             </a>
+            </li>
+            <li>
+             <a class="contact" href="/contact">
+              Contact
+             </a>
+            </li>
+            <li>
+             <a class="give" href="http://giving.sc.edu/areastosupport/collegesschools/collegeofengineeringandcomputing.aspx">
+              Give
+             </a>
+            </li>
+            <li>
+             <a class="calendar" href="/calendar">
+              Calendar
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <!-- /.block -->
+     </div>
+     <!-- /.region -->
+    </div>
+   </div>
+   <!-- /#main -->
+  </div>
+  <!-- /#page -->
+  <hr id="bottomrule"/>
+  <small>
+   ©
+   <a href="http://www.sc.edu/copyright/index.shtml">
+    2012 University of South Carolina Board of Trustees
+   </a>
+  </small>
+  -
+  <small>
+   <a href="http://www.sc.edu/siteinfo/siteinfo.shtml">
+    Privacy Policy
+   </a>
+  </small>
+ </body>
+</html>

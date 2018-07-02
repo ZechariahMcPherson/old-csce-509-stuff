@@ -1,0 +1,20 @@
+CSCE 590 Web Scraping
+HW3 - Beautiful Soup / Basic Crawling
+Due Monday Feb 6 at 11:55PM
+
+1) Write a short program named 3_1.py (less than 10 lines)
+  that imports only urlopen and BeautifulSoup  and then builds a
+  list of all links (<a> tag). Then it should process the list one
+  element at a time and print the link. Use the URL https://cse.sc.edu/ .
+  Finally it should print a count of the number of links.
+
+2) Modify the previous program to obatin 3_2.py that
+  a) write to the file "allLinks.txt"
+  b) write only the URL, i.e. the value of the href
+
+3) Run 5-getAllExternalLinks.py from chapter 3 on the URL https://cse.sc.edu/ .
+  Modify the code to handle the exceptions that occur,  by logging,
+  then ignoring and continuing to handle the other links.
+
+4) Modify 5-getAllExternalLinks.py to check the website 5-getAllExternalLinks.py
+  for "Bad Links"

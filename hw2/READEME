@@ -1,0 +1,3 @@
+Creator: Gregory Zechariah McPherson
+
+This program is written in python 3.6 . hw2.txt is has problems 1-3  and hw2num4.py has problem 4. You weren't clear on how you wanted us to go about this so I may be missing some things you wanted. I did testing and everything worked perfectly. I included my test file and output file. The scrubbed file will be written to output.txt. To run the program with my test file type python3 hw2num4.py testfile.txt . My program does except any text file that you give it.

@@ -1,0 +1,25 @@
+
+
+CSCE 590 HW 2 - Regular expressions, Due Jan 29 Sunday night 11:55PM
+
+1) Give regular expressions that denotes the Languages:
+   a) { strings x such that x starts with 'aa' followed by any number of b's and c's and then end in an 'a'.
+   b)  Phone numbers with optional area codes and  optional extensions of the form " ext 432".
+   c) Email Addresses
+   d) a Python function definition that just has pass as the body
+   e) A link in a web page
+
+
+2) What languages(sets of strings that match the re) are denoted by the following regular expressions:
+   a)   (a|b)[cde]{3,4}b
+   b)   \w+\W+
+   c)   \d{3}-\d{2}-\d{4}
+
+3) Give a regular expressions that extracts the "login"  for a USC student from their email address "login@email.sc.edu"
+(after the match one could use login=match.group(1) )
+
+4) Write a Python program that processes a file line by line and cleans it by removing (re.sub)
+   social security numbers (replacing with <social-security>)
+   email addresses (replacing with "<email>")
+   phone numbers (replacing with <phone-number>)
+For extra credit replacing Soc-Sec numbers that leave the number but replace the first three digits with the last three and replace the last three with the first three in the original string, i.e. 123-45-6789 becomes 789-45-6123 .

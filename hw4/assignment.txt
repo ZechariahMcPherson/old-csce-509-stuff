@@ -1,0 +1,7 @@
+Here is a new URL for HW4 problem 2, https://cse.sc.edu/~matthews/Courses/590/Resources/sched.html
+
+1)Copy the table from the Master Schedule of CSCE courses online (^A^C select all then copy) and paste (^V) into excel then save as a CSV file, sched.csv
+
+2)Write a program, table.py, to grab this same table.
+
+3)Use Requests to login to the CSE site (https://cse.sc.edu/user/login?destination=node) and then use BeautifulSoup to prettify the page returned.
